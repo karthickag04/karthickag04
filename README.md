@@ -1,4 +1,11 @@
 ## Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthickag04&label=Profile%20views&color=0e75b6&style=flat" alt="karthickag04" /> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthickag04&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="karthickag04" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthickag04&show_icons=true&locale=en&theme=tokyonight" alt="karthickag04" /></p>
+
+
 
 <!--
 **karthickag04/karthickag04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
