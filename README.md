@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthickag04&label=Profile%20views&color=0e75b6&style=flat" alt="karthickag04" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthickag04&show_icons=true&locale=en&layout=compact&theme=tokyonight&count_private=true&langs_count=20" alt="karthickag04" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthickag04&show_icons=true&locale=en&layout=compact&theme=tokyonight&count_private=true&langs_count=30" alt="karthickag04" /></p>
 
 ### 📊 Activity Overview
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthickag04&show_icons=true&locale=en&theme=tokyonight" alt="karthickag04" /></p>
